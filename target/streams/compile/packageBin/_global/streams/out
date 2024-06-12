@@ -1,0 +1,13 @@
+[debug] Packaging G:\project\scala\task3\target\scala-3.3.3\task3_3-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	main$package$.class
+[debug] 	  G:\project\scala\task3\target\scala-3.3.3\classes\main$package$.class
+[debug] 	main$package.class
+[debug] 	  G:\project\scala\task3\target\scala-3.3.3\classes\main$package.class
+[debug] 	main$package.tasty
+[debug] 	  G:\project\scala\task3\target\scala-3.3.3\classes\main$package.tasty
+[debug] 	main.class
+[debug] 	  G:\project\scala\task3\target\scala-3.3.3\classes\main.class
+[debug] 	main.tasty
+[debug] 	  G:\project\scala\task3\target\scala-3.3.3\classes\main.tasty
+[debug] Done packaging.
